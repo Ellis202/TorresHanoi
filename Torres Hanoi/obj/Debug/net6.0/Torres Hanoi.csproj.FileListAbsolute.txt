@@ -3,7 +3,6 @@ C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\bin\Debug\net6.0\Torres Ha
 C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\bin\Debug\net6.0\Torres Hanoi.runtimeconfig.json
 C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\bin\Debug\net6.0\Torres Hanoi.dll
 C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\bin\Debug\net6.0\Torres Hanoi.pdb
-C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\obj\Debug\net6.0\Torres Hanoi.csproj.AssemblyReference.cache
 C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\obj\Debug\net6.0\Torres Hanoi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\obj\Debug\net6.0\Torres Hanoi.AssemblyInfoInputs.cache
 C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\obj\Debug\net6.0\Torres Hanoi.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\obj\Debug\net6.0\refint\To
 C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\obj\Debug\net6.0\Torres Hanoi.pdb
 C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\obj\Debug\net6.0\Torres Hanoi.genruntimeconfig.cache
 C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\obj\Debug\net6.0\ref\Torres Hanoi.dll
+C:\Users\JENIM\source\repos\Torres Hanoi\Torres Hanoi\obj\Debug\net6.0\Torres Hanoi.csproj.ResolveComReference.cache
